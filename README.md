@@ -1,4 +1,4 @@
-# Demo Version of WeTravel
-Just testing and checking layout of our homepage and about page.
-We are still mising "Why Us" section.
-Just testing.
+# YouTravel Landing Page
+
+You travel is fictional website for solo travelers.
+Website was build for the 1st Group Projct in Vefskolinn course.
